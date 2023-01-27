@@ -111,3 +111,11 @@ class Meating:
 
 
 Meating().present()
+
+
+# Interface VS Abstract class
+# These are two reserved key and concept we have got in java
+# in python we have not the key boards but we can implement concepts
+# but we is difference between interface and abstract class
+# we can not create an instance from both of them we use them to create base schema of subclasses
+# but in abstract class we can implement common action and non-abstract method
