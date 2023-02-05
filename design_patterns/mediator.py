@@ -1,7 +1,4 @@
-"""
-Description:
-Mediator is useful design pattern when have got couple of objects which have to talk each other.
-With this design pattern we can design open/close and single responsible application.
+esign open/close and single responsible application.
 
 Example:
 We want to implement and GUI framework that other developer use.
