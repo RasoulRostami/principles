@@ -28,6 +28,7 @@ class Editor1:
 # 1. If we have dozens of attributes we will have messy and crowded class
 # 2. Violation of single responsibility principles
 
+
 # ------------------ Solution three
 class Editor3State:
     def __init__(self) -> None:
