@@ -47,7 +47,7 @@ if __name__ == "__main__":
     save_client_button.click()
     remove_client_button.click()
 
-# Add you see, it works but it is not a good design.
+# As you see, it works but it is not a good design.
 # in the above implemtation we use inheritance and overide the behavior of a class
 # This is not the currect solution.
 # What happens if we want to modify Input class in framework?
